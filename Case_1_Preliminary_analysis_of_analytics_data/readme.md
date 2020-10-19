@@ -1,4 +1,4 @@
-I have found some simulated google analytics data in my old files. 
+I have found some simulated google analytics data in my old files (I guess it is a dataset from Kaggle? the creation date is the same as my account creation there...). 
 
 I'm not sure where it is from - I assume this is one of my first attempts at playing with data outside of physics&astronomy - but I also had 700+ lines of semi-commented python code with it in which I explored the basic properties, and a pdf detailing my findings. 
 
